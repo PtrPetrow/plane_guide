@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Boeing</item>
+        <item>Airbus</item>
+        <item>Embraer</item>
+        <item>Suhoi</item>
+        <item>MiG</item>
+    </string-array>
+
+    <string-array name="Civil_airplane_Boeing">
+        <item>Boeing 737|boeing_737.png</item>
+        <item>Boeing 747|boeing_747.png</item>
+    </string-array>
+
+    <string-array name="Civil_airplane_Airbus">
+        <item>Airbus A320|airbus_a320.png</item>
+        <item>Airbus A340|airbus_a340.png</item>
+    </string-array>
+
+    <string-array name="Civil_airplane_Embraer">
+        <item>Embraer 135|embraer_135.png</item>
+        <item>Embraer 195|embraer_195.png</item>
+    </string-array>
+
+    <string-array name="Air_Force_Suhoi">
+        <item>Su 27|su_27.png</item>
+        <item>Su 30SM|su_30.png</item>
+    </string-array>
+
+    <string-array name="Air_Force_MiG">
+        <item>MiG 29|Mig_29.png</item>
+        <item>MiG 31|Mig_31.png</item>
+    </string-array>
+</resources>
